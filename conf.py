@@ -1254,17 +1254,6 @@ CONTENT_FOOTER = '''
 # (translatable)
 BODY_END = """
 
-<!-- Start of StatCounter Code -->
-<div id="sfcfrg2u7m3hhwnypymzjcwqy74hgmq667h"></div>
-<script type="text/javascript" src="https://counter2.stat.ovh/private/counter.js?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&FCS_type=999999&down=async" async>
-</script>
-<noscript>
-<a href="https://www.freecounterstat.com" title="web page hit counter">
-<img src="https://counter2.stat.ovh/private/freecounterstat.php?c=frg2u7m3hhwnypymzjcwqy74hgmq667h&FCS_type=999999" border="0" title="web page hit counter" alt="web page hit counter">
-</a>
-</noscript>
-<!-- End of StatCounter Code -->
-
 <!-- Start of Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174100738-1"></script>
