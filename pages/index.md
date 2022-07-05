@@ -15,13 +15,13 @@
 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
   <div class="card">
     <div class="card-body ">
-    <img src="/images/dp.png" class="circle card-img-left" width="362" style="float: right; padding: 5px 5px 5px 5px;">
+    <img src="/images/dp.png" class="circle card-img-left" width="300" style="float: right; padding: 5px 5px 5px 5px;">
     <p class="card-text"style='font-size: large' align='left'> 
     
-    Hi, My name is Oindrila. I am a passionate atmospheric scientist and a machine learning enthusiast. I have recently submitted my PhD thesis titled "Investigation of atmospheric ozone evolution in Antarctica using Machine learning". During my PhD, I studied the interactions between chemistry and weather/climate using a suite of statistical, machine learning and chemical transport models as a member of <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. I have also developed open source tools for modeling and analysis. My research interests include machine learning, causal network analysis and atmospheric modeling. </p>
+    Hi, My name is Oindrila. I am currently an institute post-doctoral researcher at <a href="https://www.atmoslabiitkgp.com/" style="text-decoration: underline">ATMOS lab</a> at <a href="http://www.iitkgp.ac.in/" style="text-decoration: underline">Indian Institute of Technology (IIT) Kharagpur</a> under the supervision of <a href="http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SWmUS" style="text-decoration: underline">Dr. Jayanarayanan Kuttippurath</a>. </p>
 
 <p class="card-text"style='font-size: large' align='left'>
-I completed my Master of Technology (MTech) degree in Earth System Science and Technology from IIT Kharagpur where I worked on the problem of stratospheric ozone hole in Antarctica. I have a Bachelor of Engineering (BE) degree in Mechanical Engineering from <a href="https://www.bitmesra.ac.in/">Birla Institute of Technology (BIT) Mesra</a>. </p>
+I completed my PhD in Meteorology and Oceanography from <a href="https://www.narl.gov.in/">National Atmospheric Research Laboratory (NARL)</a>, ISRO, Department of Space, Govt. of India where I Tropospheric trace gas chemistry during SSW events. </p>
 </div>
 </div>
 </div>
