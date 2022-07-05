@@ -34,7 +34,12 @@
 <ul>
 
 <li>
+
+<!--
 <p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Seasonal, interannual and SSW related variations of middle atmospheric N2O and NOx over low latitudes</em>, Journal of Atmospheric and Terrestrial Physics, 2019 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+-->
+
+To be updated
 </li>
 
 </ul>
@@ -57,10 +62,12 @@
 <ul>
 
 <li>
+
+<!--
 <p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Seasonal, interannual and SSW related variations of middle atmospheric N2O and NOx over low latitudes</em>, Journal of Atmospheric and Terrestrial Physics, 2019 [<a href="https://doi.org/10.1007/s00704-022-04031-6">link</a>].</p>
+-->
+To be updated
 </li>
-
-
 </ul>
 
        </p>
@@ -211,7 +218,10 @@
       <p class="card-text">
       
 <ul>
+
 <li>
+
+<!--
 <p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Seasonal, interannual and SSW related variations of middle atmospheric N2O and NOx over low latitudes</em>, Journal of Atmospheric and Terrestrial Physics, 2020 [<a href="https://doi.org/10.1016/j.jastp.2019.05.007">link</a>].</p>
 
 </li>
@@ -224,7 +234,7 @@
 
 <li>
 
-<p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Chemical composition during SSW Equatorial middle atmospheric chemical composition changes during sudden stratospheric warming events Chemical composition during SSW</em>, Atmospheric Chemistry and Physics, 2015 [<a href="http://dx.doi.org/10.5194/acpd-15-23969-2015">link</a>].</p>
+<p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Equatorial middle atmospheric chemical composition changes during sudden stratospheric warming events</em>, Atmospheric Chemistry and Physics, 2015 [<a href="http://dx.doi.org/10.5194/acpd-15-23969-2015">link</a>].</p>
 
 </li>
 
@@ -238,24 +248,12 @@
 
 <p><strong>Oindrila Nath</strong> and Sridharan Sundararajan: <em>Long-term variabilities and tendencies in zonal mean TIMED–SABER ozone and temperature in the middle atmosphere at 10–15°N</em>, Journal of Atmospheric and Solar-Terrestrial Physics, 2014 [<a href="http://dx.doi.org/10.1016/j.jastp.2014.08.010">link</a>].</p>
 </li>
+
+-->
+
+To be updated
 </ul>
 </p>
     </div>
   </div>
 </div> 
-<br/>
-
-<h1 style="background-color: #ADD8E6; color:#000000" align='center'> AWARDS/GRANTS</h1>
-
-<div class="card-deck">
-  <div class="card">
-    <div class="card-body">
-    <p class="card-text" align='justify'>
-<ul>
-<li>Received <strong>full funding</strong> for attending <strong>European Geosciences Union (EGU) General Assembly</strong> held during <strong>23–28 April 2017</strong> in <strong>Vienna, Austria</strong>.</li>
-</ul>
-
- </p> 
-    </div>
-  </div>
-</div>

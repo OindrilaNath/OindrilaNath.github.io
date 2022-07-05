@@ -31,12 +31,8 @@
 <!--For Dimensions badges-->
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Investigation of stratospheric ozone loss in polar regions</h1>
-
-<p align='justify'>
-First proposed by <a href="https://www.nature.com/articles/249810a0" style="text-decoration: underline">Molina and Rowland</a> in early 1970s (Rowland and Molina won <a href="https://www.nobelprize.org/prizes/chemistry/1995/summary/" style="text-decoration: underline">Nobel prize for Chemistry in 1995</a> along with Paul Crutzen), stratospheric ozone hole in the Antarctic region due to chemical destruction involving halogen compounds is very well known. Ozone hole has resulted in significant changes in southern hemispheric climate in the past decades (<a href="https://science.sciencemag.org/content/302/5643/273.full" style="text-decoration: underline">Gillett and Thompson, 2003</a>; <a href="https://www.nature.com/articles/ngeo1296">Thompson et al., 2011</a>). It resulted in enactment of an international treaty, popularly known as <a href="https://ozone.unep.org/treaties/montreal-protocol">Montreal Protocol</a>, adopted on September 16, 1987 in Montreal. Montreal Protocol aimed to protect the stratospheric ozone layer by controlling the global emissions of ozone depleting substances (ODS). Due to the decrease in atmospheric loading of ODSs which has peaked around 2000 (<a href="https://www.pnas.org/content/104/12/4814">Velders et al., 2007</a>), the Antarctic ozone hole is expected to be on mend since 2000. 
-</p>
-
+<h1 style="background-color: #ADD8E6; color:#A52A2A">Tropospheric trace gas chemistry during SSW events</h1>
+<!--
 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
 
 <div class="col mb-4 row-eq-height">
@@ -75,49 +71,10 @@ First proposed by <a href="https://www.nature.com/articles/249810a0" style="text
 
 </div>
 
-<BR>
+-->
+<ul>
+<li>
+To be updated
 
-<h1 style="background-color: #ADD8E6; color:#A52A2A">Analysis of long-term changes in tropospheric ozone in Antarctica</h1>
-
-<p align='justify'>
-With severe impacts on human health and agricultural output, tropospheric ozone is a prominent air pollutant and greenhouse gas. However, tropospheric ozone is not only a greenhouse gas and
-biological irritant but also an atmospheric cleansing agent which rids the atmosphere off hazardous gases through production of hydroxyl radicals and is beneficial if it is present in the stratosphere in abundant amount as it prevents harmful sun rays from penetrating through the troposphere to the Earth’s surface. Tropospheric ozone exerts considerable radiative forcing too with recent estimate being 360 mW/m<sup>2</sup> which is 25% of the same exerted by CO<sub>2</sub>.</p>
-
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-
-<div class="col mb-4 row-eq-height">
-<div class="card">
-<img class="card-img-top" src="/images/dlm.png">
-<div class="card-body">
-<h3 class="card-title" align="left">The Increasing Surface Ozone and Tropospheric Ozone in Antarctica and Their Possible Drivers</h3>
-<p class="card-text" align='justify'>A comprehensive analysis of the temporal evolution of tropospheric ozone in Antarctica using more than 25 years of surface ozone and ozonesonde measurements reveals significant changes in tropospheric ozone there. It shows a positive trend in ozone at the surface and lower and mid-troposphere, but a negative trend in the upper troposphere. We also find significant links between different climate modes and tropospheric ozone in Antarctica and observe that changes in residual overturning circulation, the strength of the polar vortex, and stratosphere–troposphere exchange make noticeable variability in tropospheric ozone. Therefore, this study alerts of increasing ozone concentration in Antarctica, which would have a profound impact on the future climate of the region as tropospheric ozone has warming feedback to the Earth’s climate. </p>
-      
-<span>
-<a href="https://pubs.acs.org/doi/10.1021/acs.est.0c08491" class="btn btn-primary">Full Text</a>  
-<a href="/images/posters/EST_01.png" class="btn btn-primary">Summary</a> 
-</span>
-
-</div>
-</div>
-</div>
-
-<div class="col mb-4 row-eq-height">
-<div class="card">
-<img class="card-img-top" src="/images/causal.png">
-<div class="card-body">
-<h3 class="card-title" align="left">Causal Network Analysis of Chemistry and Climate Interactions <br/></h3>
-<p class="card-text" align='justify'>  Atmospheric chemistry is closely coupled with both local and global atmospheric dynamics. Understanding these interactions is an essential prerequisite for diagnosing the influence of weather/climate on atmospheric chemistry and vice-versa. I am developing and utilising state-of-the-art causal discovery methods for reconstructing the causal dependency structure underlying chemistry–atmosphere interactions. I am also analysing the climatic impacts of changes in tropospheric ozone in Antarctic region and its geophysical drivers with the help of a suite of statistical, machine learning and physical modeling techniques.</p>
-
-<span>
-<a href="https://doi.org/10.1039/D1EM00383F" class="btn btn-primary">Full Text</a>  
-<a href="https://pubs.rsc.org/en/content/articlepdf/2022/EM/D1EM00383F?page=search" class="btn btn-primary">PDF</a> 
-<a href="/images/posters/Causal_01.png" class="btn btn-primary">Summary</a> 
-</span>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<br/>
+</li>
+</ul>

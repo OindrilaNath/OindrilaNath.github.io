@@ -26,7 +26,7 @@
     <h3 class="card-title" align="left">Doctor of Philosophy</h3>
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Meteorology and Oceanography  <BR/>     
-	<strong>Institute:</strong> National Atmospheric Research Laboratory, ISRO, Department of Space, Govt. of India, India <BR/>	
+	<strong>Institute:</strong> National Atmospheric Research Laboratory, Department of Space, Government of India, Andhra Pradesh, India <BR/>	
 	<strong>Thesis:</strong> To be updated <BR/>
 	<strong>Graduation Year: </strong>2019     
       </p>
@@ -38,7 +38,7 @@
     <h3 class="card-title" align="left">Master of Science</h3>
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Atmospheric Science <BR/>     
-	<strong>Institute:</strong>  Calcutta University, West Bengal, India <BR/>	
+	<strong>Institute:</strong>  Calcutta University, Kolkata, West Bengal, India <BR/>	
 	<strong>Thesis:</strong> To be updated <BR/>
 	<strong>Graduation Year: </strong>2012        
       </p>
@@ -50,7 +50,7 @@
     <h3 class="card-title" align="left">Bachelor of Science</h3>
       <p class="card-text" align='justify'> 
       	<strong>Major:</strong> Chemistry <BR/>     
-	<strong>Institute:</strong> Calcutta University, West Bengal, India <BR/>
+	<strong>Institute:</strong> Calcutta University, Kolkata, West Bengal, India <BR/>
 	<strong>Thesis:</strong> To be updated <BR/>	
 	<strong>Graduation Year: </strong>2010      
       </p>
@@ -71,11 +71,14 @@
 
 <ul>
     
-    <li>Time-series Modeling and Analysis (state space models, MLR, DLM)</li>
+    <li>Time-series Modeling and Analysis</li>
+    
+    <!--
     
     <li>Machine Learning (MLP, CNN, RNN, AutoEncoder, Transformer, GAN)</li>
     
     <li>Trajectory Modeling and Analysis</li>
+    -->
     
     
 </ul>
@@ -104,8 +107,6 @@
     <li>Hindi (Native)</li>
 
     <li>English (Proficient)</li>
-
-    <li>German (A1 level)</li>
     
 </ul>
 </p>
@@ -120,11 +121,11 @@
 
 <ul>
 
-    <li><strong>Statistical Learning</strong>: Pandas, Statsmodels, Scikit-learn, NLTK, Networkx, Tensorflow, Keras</li>
+    <li><strong>Statistical Learning</strong>: Pandas, Statsmodels, Scikit-learn</li>
 
-    <li><strong>Visualization</strong>: Matplotlib, Seaborn, Arviz, Basemap, Cartopy, Folium </li>
+    <li><strong>Visualization</strong>: Matplotlib, Basemap </li>
 
-    <li><strong>Geospatial Data Analysis</strong>: gdal, rasterio, xarray, geopandas, Google Earth Engine</li>
+    <li><strong>Geospatial Data Analysis</strong>: rasterio, xarray, geopandas</li>
 
 </ul>
 </p>
@@ -143,7 +144,7 @@
       <h3 class="card-title" align="left">Physical Modeling</h3>   
 <p> 
 <ul>
-    <li><strong>Trajectory Modeling</strong>: HYSPLIT</li>
+    <li><strong>Trajectory Modeling</strong>: HySPLIT</li>
     <li><strong>Atmospheric modeling</strong>: WRF, GEOS-Chem, climlab</li>
     <li><strong>Radiative Transfer Modeling</strong>: SBDART</li>
     
@@ -179,6 +180,7 @@
 
 <h1 style="background-color: #ADD8E6; color:#000000" align='center'> RESEARCH EXPERIENCE</h1>
 
+<!--
 <div class="card-deck">
   <div class="card">
     <div class="card-body">
@@ -221,6 +223,10 @@
     </div>
   </div>
 </div>
+
+-->
+
+<ul><li>To be updated</li></ul>
 
 <BR/>
 
@@ -269,6 +275,8 @@
  
 <h1 style="background-color: #ADD8E6; color:#000000" align='center'> CONFERENCES</h1>
 
+
+<!--
 <div class="card-deck">
   <div class="card">
     <div class="card-body">    
@@ -306,9 +314,15 @@
     </div>
   </div>
 </div> 
+
+-->
+
+<ul><li>To be updated</li></ul>
 <br/>
 
 <h1 style="background-color: #ADD8E6; color:#000000" align='center'> AWARDS/GRANTS</h1>
+
+<!--
 
 <div class="card-deck">
   <div class="card">
@@ -321,3 +335,7 @@
     </div>
   </div>
 </div> 
+
+-->
+
+<ul><li>To be updated</li></ul>
