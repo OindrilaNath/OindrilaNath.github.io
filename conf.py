@@ -1227,7 +1227,7 @@ CONTENT_FOOTER = '''
 </span>
 
 <span class="fa-stack fa-2x">
-  <a href="https://scholar.google.com/citations?user=Xg0YAlQAAAAJ&hl">
+  <a href="https://scholar.google.co.in/citations?user=swy-47MAAAAJ&hl=en">
      <i class="ai ai-google-scholar-square ai-2x"></i>
   </a>
 </span>

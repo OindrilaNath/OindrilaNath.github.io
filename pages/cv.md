@@ -16,7 +16,7 @@
 }
 </style>
 
-<h1 style="background-color: #ADD8E6; color:#000000" align='center'> EDUCATION</h1>
+<h1 style="background-color: #ADD8E6; color:#000000" align='center'>EDUCATION</h1>
 
 
 <div class="card-deck">
@@ -28,7 +28,7 @@
       	<strong>Major:</strong> Meteorology and Oceanography  <BR/>     
 	<strong>Institute:</strong> National Atmospheric Research Laboratory, ISRO, Department of Space, Govt. of India, India <BR/>	
 	<strong>Thesis:</strong> To be updated <BR/>
-	<strong>Graduation Year: </strong>2022       
+	<strong>Graduation Year: </strong>2019     
       </p>
     </div>
   </div>
@@ -77,7 +77,6 @@
     
     <li>Trajectory Modeling and Analysis</li>
     
-    <li>Causal Network Analysis</li>
     
 </ul>
 </p>
@@ -94,8 +93,6 @@
     <li>Python</li>
 
     <li>MATLAB</li>
-
-    <li>Fortran </li>
 
 </ul>
 </p>
