@@ -6,14 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://oindrila31.github.io/categories/coronavirus.xml</loc>
-  <lastmod>2022-07-05T15:10:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://oindrila31.github.io/categories/covid.xml</loc>
-  <lastmod>2022-07-05T15:10:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://oindrila31.github.io/categories/markdown.xml</loc>
   <lastmod>2022-07-05T15:10:00Z</lastmod>
  </sitemap>
@@ -27,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://oindrila31.github.io/sitemap.xml</loc>
-  <lastmod>2022-07-05T15:33:00Z</lastmod>
+  <lastmod>2022-07-05T16:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>
