@@ -6,19 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://oindrila31.github.io/categories/markdown.xml</loc>
-  <lastmod>2022-07-05T15:10:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://oindrila31.github.io/categories/pandoc.xml</loc>
-  <lastmod>2022-07-05T15:10:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://oindrila31.github.io/rss.xml</loc>
   <lastmod>2022-07-05T17:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://oindrila31.github.io/sitemap.xml</loc>
-  <lastmod>2022-07-05T17:01:00Z</lastmod>
+  <lastmod>2022-07-05T21:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
